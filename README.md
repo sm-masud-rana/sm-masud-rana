@@ -24,7 +24,7 @@ Helping brands, businesses, and creators grow with smart marketing, AI-powered w
 <img src="https://img.shields.io/badge/📧_Email-Business_Contact-EA4335?style=for-the-badge" />
 </a>
 
-<a href="https://www.linkedin.com/in/masudrana81/">
+<a href="https://www.linkedin.com/in/sm-masud-rana/">
 <img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -174,11 +174,11 @@ My focus is creating scalable online solutions using AI tools, automation system
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/masudrana81/">
+<a href="https://www.linkedin.com/in/sm-masud-rana/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/masud.rana823/?hl=en">
+<a href="https://www.instagram.com/smmasudrana1/?hl=en">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
