@@ -98,6 +98,17 @@ My focus is creating scalable online solutions using AI tools, automation system
 
 ---
 
+## 📊 📊 Microsoft & Productivity
+✔ Microsoft Excel  
+✔ Google Sheets  
+✔ Data Reporting  
+✔ Marketing Analytics  
+✔ Campaign Performance Tracking  
+✔ Data Visualization  
+✔ Productivity Workflow Management  
+
+---
+
 ## 🎨 Creative Branding & Design
 
 ✔ Canva Graphic Design  
