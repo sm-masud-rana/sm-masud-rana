@@ -44,18 +44,6 @@ My focus is creating scalable online solutions using AI tools, automation system
 
 # 🚀 Skills & Expertise
 
-## 🌐 Web & Portfolio Creation
-
-✔ AI-Assisted Website Development  
-✔ Portfolio Website Creation  
-✔ Responsive Website Design  
-✔ Landing Page Design  
-✔ GitHub Pages Deployment  
-✔ HTML • CSS • JavaScript  
-✔ WordPress Website Management  
-
----
-
 ## 📱 Digital Marketing & Social Media
 
 ✔ Facebook Ads Campaigns  
@@ -69,6 +57,16 @@ My focus is creating scalable online solutions using AI tools, automation system
 ✔ Lead Generation Campaigns  
 ✔ Brand Growth Strategy  
 ✔ Creative Ad Campaigns  
+
+## 🌐 Web & Portfolio Creation
+
+✔ AI-Assisted Website Development  
+✔ Portfolio Website Creation  
+✔ Responsive Website Design  
+✔ Landing Page Design  
+✔ GitHub Pages Deployment  
+✔ HTML • CSS • JavaScript  
+✔ WordPress Website Management  
 
 ---
 
