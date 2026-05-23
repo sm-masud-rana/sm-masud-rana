@@ -16,7 +16,7 @@ Helping brands, businesses, and creators grow with smart marketing, AI-powered w
 
 <p align="center">
 
-<a href="https://sm-masud-rana.github.io">
+<a href="https://https://mdmasudrana.xo.je">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Website-0A66C2?style=for-the-badge" />
 </a>
 
